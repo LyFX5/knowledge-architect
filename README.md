@@ -1,7 +1,5 @@
 # Cognitive Engine
 
-If you want the work to develop more sustainably, you are welcome to support it with any intellectual contribution or a [donation](https://ko-fi.com/memorygate/).
-
 ## What is this?
 
 Cognitive Engine is an AI-native system that transforms spoken thoughts into structured, reusable knowledge. It is designed for founders, researchers, engineers, writers, and systems thinkers who generate ideas faster than they can organize them.
