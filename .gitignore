@@ -1,4 +1,3 @@
-```
 __pycache__/
 *.pyc
 *.pyo
@@ -8,6 +7,27 @@ __pycache__/
 .env.*
 .vscode/
 .idea/
+.spyproject/
 *.log
 *.tmp
-```
+app/config/settings.py
+# Voice files
+*.ogg
+*.mp3
+*.wav
+*.flac
+
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+dist/
+build/
+*.egg-info/
+.venv/
+venv/
+.DS_Store
+*.db
+*.sqlite
+migrations/
